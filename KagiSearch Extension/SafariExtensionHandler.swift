@@ -1,7 +1,7 @@
 //
 //  SafariExtensionHandler.swift
 //
-//  Created by Marco Cebrián on 27/10/2021.
+//  Created by Marco Cebrián on 27/9/2021.
 //  Copyright © 2021 Marco Cebrián Muiño. All rights reserved.
 //
 import SafariServices

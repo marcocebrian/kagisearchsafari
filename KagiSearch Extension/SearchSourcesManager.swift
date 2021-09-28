@@ -17,8 +17,6 @@ struct SearchSource
 
 class SearchSourcesManager
 {
-    static let shared = SearchSourcesManager()
-    
     var sources:[SearchSource] = [SearchSource(host: "www.google.", uniqueText: "ie=", queryParameter: "q"),
                                   SearchSource(host: "www.bing.", uniqueText: "PC=", queryParameter: "q"),
                                   SearchSource(host: "search.yahoo.", uniqueText: "fr=aaplw", queryParameter: "p"),
@@ -26,7 +24,9 @@ class SearchSourcesManager
                                   SearchSource(host: "www.ecosia.", uniqueText: "tts=st", queryParameter: "q")]
     
     let customSearchEngineQueryLink = "https://kagi.com/search?q="
-    
+
+    static let shared = SearchSourcesManager()
+
     private init()
     {
         
