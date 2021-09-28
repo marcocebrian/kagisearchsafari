@@ -6,7 +6,7 @@ Implemented purely using native APIs in Swift.
 
 # Download
 [Version 1.0](https://github.com/marcocebrian/kagiSearchSafari/releases/download/v1/KagiSearch.zip)
-Intel + M1 Native Universal Binary
+(Intel + M1 Native) Universal Binary
 
 # LICENSE
 You can distribute, remix, tweak, and build upon this work,
