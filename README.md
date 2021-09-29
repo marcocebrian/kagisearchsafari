@@ -2,7 +2,6 @@
 # Kagi Search extension for Safari
 Safari Extension that allows the user to use Kagi.com search engine. 
 Implemented purely using native APIs in Swift.
-© Marco Cebrián Muiño
 
 # Download
 [Version 1.1](https://github.com/marcocebrian/kagisearchsafari/releases/download/v11/KagiSearch.zip)
@@ -16,3 +15,5 @@ Attribution 4.0 International (CC BY 4.0)
 
 ## How to Use
 Compile with xCode, then activate the 'KagiSearch' extension in Safari.
+
+## Marco Cebrián Muiño - 2021
