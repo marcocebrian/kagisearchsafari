@@ -7,8 +7,8 @@ Implemented purely using native APIs in Swift.
 [Free Version 1.1](https://github.com/marcocebrian/kagisearchsafari/releases/download/v11/KagiSearch.zip)
 (Intel + M1 Native) Universal Binary
 
-[Full fledge Extension with support] (https://apps.apple.com/in/app/custom-search-engine/id1588019370?mt=12)
-(Intel + M1 Native) Universal Binary
+[Full fledge extension for Safari](https://apps.apple.com/in/app/custom-search-engine/id1588019370?mt=12)
+[App Store] (Intel + M1 Native) 17 Search engines...
 
 
 # LICENSE
