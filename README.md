@@ -4,10 +4,10 @@ Safari Extension that allows the user to use Kagi.com search engine.
 Implemented purely using native APIs in Swift.
 
 # Download
-[Free Version 1.2](https://github.com/marcocebrian/kagisearchsafari/releases/download/v12/KagiSearch.app.zip)
+[Free Simple Version 1.2](https://github.com/marcocebrian/kagisearchsafari/releases/download/v12/KagiSearch.app.zip)
 (Intel + M1 Native) Universal Binary
 
-[Full fledged extension for Safari](https://apps.apple.com/in/app/custom-search-engine/id1588019370?mt=12)
+💪 [Full extension for Safari](https://apps.apple.com/in/app/custom-search-engine/id1588019370?mt=12)
 [App Store] (Intel + M1 Native) 17 Search engines...
 
 
